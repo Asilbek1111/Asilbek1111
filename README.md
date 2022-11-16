@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Next js
 - 💞️ I’m looking to collaborate on Creative Projects
-- 📫 How to reach me aslbelh222@gmail.com
+- 📫 How to reach me aslbekh222@gmail.com
 
 <!---
 Asilbek1111/Asilbek1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
